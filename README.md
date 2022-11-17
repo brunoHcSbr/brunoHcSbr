@@ -3,8 +3,8 @@
 - 💻 Atualmente estou estudando a linguagem de programação JavaScript e aprimorando meus conhecimentos em HTML e CSS.
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/brunoHcSbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoHcSbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoHcSbr&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoHcSbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoHcSbr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
