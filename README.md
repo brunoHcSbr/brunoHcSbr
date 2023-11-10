@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Bruno Henrique Correia da Silva.
 - 👀 Estou interessado em aprimorar meus conhecimentos em linguagens de programação e em outras tecnologias.
 - 💻 Atualmente estou aprimorando o meu conhecimento em programação web utilizando a biblioteca React e a linguagem Typescript.
-- 💼 Tenho experiencia na area como Analista de Desenvolvimento de Sistemas, realizando suporte para sistemas de departamento pessoal.
+- 💼 Tenho experiencia na área de tecnologia como Analista de Desenvolvimento de Sistemas, realizando suporte para sistemas de departamento pessoal.
   
 <div align="center">
   <a href="https://github.com/brunoHcSbr?tab=repositories">
